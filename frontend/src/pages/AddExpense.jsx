@@ -246,12 +246,6 @@ const AddExpense = () => {
 
             {/* Add Expense & View Expenses */}
             <div className="w-full flex items-center gap-4">
-              <Link
-                to="/view-expenses"
-                className="px-8 py-5 bg-green-400/20 rounded-2xl text-green-600 text-xl tracking-wide hover:bg-green-600 hover:text-white transition-all ease-in-out cursor-pointer"
-              >
-                View Expenses
-              </Link>
               <button
                 type="button"
                 className="px-8 py-5 bg-budget-buddy-400/20 rounded-2xl text-budget-buddy-600 hover:text-white text-xl tracking-wide hover:bg-budget-buddy-600 transition-all ease-in-out cursor-pointer"
