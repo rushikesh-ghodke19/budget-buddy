@@ -1,5 +1,5 @@
-@import "tailwindcss";
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
 
 * {
   box-sizing: border-box;
@@ -79,3 +79,5 @@ input[type="number"]::-webkit-inner-spin-button {
   --color-budget-buddy-900: #0046b3;
   --color-budget-buddy-950: #000d24;
 }
+
+@import "tailwindcss";
